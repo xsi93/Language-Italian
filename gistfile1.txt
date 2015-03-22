@@ -1,0 +1,46 @@
+Editor=Editor
+Scene.Mock-ups=Scene Mock-Ups
+
+Existing.Mock-up.Images=Existing Mock-up Images
+Character=Character
+Characters=Characters
+Characters.(New/Edit)=Characters (New/Edit)
+New.Mock-up.Image=Mock-up Image
+Current.Act=Current Act
+
+Script.Output=Script Output
+Act.ID=Act ID
+Auto.Increment.ID=Auto Increment ID
+Character.Mood=Character Mood
+Mock-Up=Mock-up
+Act.Script=Act Script
+New.Character.(Name)=New Character (Name):
+Image.Preview=Image Preview
+Source=Source
+Description=Description
+Character.(Name)=Character (Name)
+
+ON=On
+OFF=Off
+
+File=File
+New.Project=New Project
+Open.Project=Open Project
+Save.Project=Save Project
+Recent.Projects=Recent Projects
+Export.As=Export As
+Plain.Text=Plain Text
+Exit=Exit
+View=View
+Show.Characters=Show Characters
+Help=Help
+Manual=Manual
+About=About
+
+Remove.Act=Remove Act
+Add/Change.Act=Add/Change Act
+Remove.Selected=Remove Selected
+Add.New.Character=Add New Character
+Change.Selected=Change Selected
+Open.File=Open File
+Import.New.Mock-up=Import New Mock-up
